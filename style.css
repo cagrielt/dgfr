@@ -1,5 +1,9 @@
+@font-face {
+  font-family:Gilroy-Semibold;
+  src: url(font/Gilroy-Semibold.otf);
+}
 
-    .nav-link{
+ .nav-link{
       border: 1px solid #E0E0E0;
     color: black;
     font-weight: 600;
@@ -9,16 +13,12 @@
     padding: 13px 49px 13px 49px;
     }
 
-    @font-face {
-      font-family:Gilroy-Light;
-      src: url(font/Gilroy-Light.otf);
-}
 
 .title{
-  font-family: 'Gilroy';
+  font-family: 'Gilroy-Semibold';
   font-style: normal;
-  font-weight: 500;
-  font-size: 48px;
+  font-weight: 600;
+  font-size: 41px;
   line-height: 130%;
   letter-spacing: -0.01em;
   color: #2B2E83;
