@@ -2,6 +2,10 @@
   font-family:Gilroy-Semibold;
   src: url(font/Gilroy-Semibold.otf);
 }
+@font-face {
+  font-family:Gilroy-Light;
+  src: url(font/Gilroy-Light.otf);
+}
 
  .nav-link{
       border: 1px solid #E0E0E0;
