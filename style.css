@@ -44,6 +44,36 @@
   
 }
 
+.team-title{
+  font-family: 'Gilroy-Light';
+      font-size: 96px;
+      font-weight: 600;
+      line-height: 125px;
+      letter-spacing: -0.01em;
+      text-align: left;
+      color:#2B2E83;
+      
+}
+
+.team-detail-title{
+  left: 362px;
+top: 0px;
+border-radius: 0px;
+}
+
+.team-desc{
+  font-family: 'Gilroy-Light';
+  height: auto;
+width: 974px;
+left: 362px;
+color:#6E6F7A;
+top: 0px;
+font-size:20px;
+font-weight: 700;
+border-radius: 0px;
+padding: 24px;
+
+}
 .ligray > li,a{
   color:#6E6F7A;
 font-family: Gilroy;
@@ -80,8 +110,8 @@ letter-spacing: -0.01em;
 }
 
 .nounder-line-a{
+  font-family: 'Gilroy-Semibold';
   color:#2E3191;
-  font-family: 'Gilroy';
 font-style: normal;
 font-weight: 600;
 font-size: 16px;  
