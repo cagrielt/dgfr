@@ -7,6 +7,16 @@
   src: url('font/Gilroy-Light.otf');
 }
 
+.tab-title{
+  font-family: Gilroy;
+  font-size: 29px;
+  font-weight: 500;
+  line-height: 38px;
+  letter-spacing: -0.01em;
+  text-align: left;
+  color:#2B2E83;
+  
+}
  .nav-link{
       border: 1px solid #E0E0E0;
     color: black;
@@ -62,6 +72,13 @@
   color: #1e1666;
 }
 
+.nounder-line-a{
+  color:#2E3191;
+  font-family: 'Gilroy';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;  
+}
 .under-line-a{
   color:#2E3191;
   text-decoration: underline;
@@ -270,6 +287,28 @@ color: #6E6F7A;
   .container {
       max-width: 1300px;
   }
+}
+
+
+.bottom-space{
+  margin-bottom:24px;
+}
+.number-box-oval{
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 24px;
+  gap: 10px;
+  width: 56px;
+  height: 56px;          
+  border: 1px solid #6E6F7A;
+  border-radius: 100%;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
 
   
 
@@ -284,7 +323,7 @@ color: #6E6F7A;
   width: 56px;
   height: 56px;          
   border: 1px solid #2E3191;
-  border-radius: 5px;
+  border-radius: 1px;
   flex: none;
   order: 0;
   flex-grow: 0;
