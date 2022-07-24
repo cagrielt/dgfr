@@ -43,14 +43,21 @@
   color: #2B2E83;
   
 }
+
 .ligray > li,a{
   color:#6E6F7A;
+font-family: Gilroy;
+font-size: 18px;
+font-weight: 500;
+line-height: 23px;
+letter-spacing: -0.01em;
 
 }
 
 #footer .social-links li {
   display: inline-block;
   margin-left: 12px;
+  color:gray;
 }
 .social-links{
   padding:0px;
