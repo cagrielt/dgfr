@@ -278,6 +278,12 @@ color: #6E6F7A;
   }
 }
 
+@media screen and (max-width: 970px) {
+  .invited {
+    padding-left: 22%;
+  }
+}
+
 .vertical-timeline-element-content .vertical-timeline-element-date {
  display: block;
  position: absolute;
