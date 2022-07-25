@@ -350,6 +350,7 @@ color: #6E6F7A;
   
 
 .number-box{
+  font-family: 'Gilroy-Semibold';
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
@@ -365,6 +366,14 @@ color: #6E6F7A;
   order: 0;
   flex-grow: 0;
 }
+
+
+.number-p{
+  font-family: 'Gilroy-Light';
+  font-weight: 500!important;
+}
+
+
 
 .background-img{
   padding-top: 48px; 
