@@ -256,7 +256,26 @@ font-size: 16px;
 }
 .pr{
   padding-left:10%;
+  font-family: 'Gilroy-Medium';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 160%;
+/* identical to box height, or 32px */
+
+letter-spacing: -0.01em;
+
+/* Grey 200 */
+
+color: #6E6F7A;
   
+}
+
+@media screen and (max-width: 970px) {
+  .pr {
+    padding-top: 12%;
+    padding-left: 0% !important;
+  }
 }
 
 .vertical-timeline-element-content .vertical-timeline-element-date {
