@@ -21,6 +21,9 @@
   .mobile-img{
     display:none!important;
   }
+  .background-img{
+    background:#F6F7FF!important;
+  }
 }
 
 .navbar-toggler:not(:disabled):not(.disabled){
