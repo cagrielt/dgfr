@@ -14,6 +14,15 @@
 *{
   font-family:'Gilroy-Medium';
 }
+@media screen and (max-width: 600px) {
+  .nav-link {
+    border:none!important;
+  }
+}
+
+
+
+
 
 .tab-title{
   font-family: Gilroy;
@@ -39,6 +48,7 @@
     .text-center{
       padding-bottom:24px;
       padding-top: 16px;
+      margin:0px auto;
     }
 
 .title{
