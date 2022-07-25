@@ -15,13 +15,22 @@
   font-family:'Gilroy-Medium';
 }
 @media screen and (max-width: 600px) {
-  .nav-link {
+  .nav-linkk {
     border:none!important;
+  }
+  .mobile-img{
+    display:none!important;
   }
 }
 
+.navbar-toggler:not(:disabled):not(.disabled){
+  border:1px solid black;
+}
 
 
+a:link {
+  text-decoration: none;
+}
 
 
 .tab-title{
@@ -34,7 +43,7 @@
   color:#2B2E83;
   
 }
- .nav-link{
+ .nav-linkk{
       border: 1px solid #E0E0E0;
     color: black;
     font-weight: 600;
