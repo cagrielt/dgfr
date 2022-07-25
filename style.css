@@ -187,7 +187,7 @@ font-size: 16px;
 
 .card-body {
  flex: 1 1 auto;
- padding: 1.25rem;
+ padding: 0rem;
 }
 .vertical-timeline {
  width: 100%;
@@ -199,7 +199,7 @@ font-size: 16px;
  content: '';
  position: absolute;
  top: 0;
- left: 67px;
+ left: 7px;
  height: 100%;
  width: 4px;
  background: #e9ecef;
@@ -218,7 +218,6 @@ font-size: 16px;
 .vertical-timeline-element-icon {
  position: absolute;
  top: 0;
- left: 60px;
 }
 
 .vertical-timeline-element-icon .badge-dot-xl {
@@ -244,7 +243,7 @@ font-size: 16px;
 
 .vertical-timeline-element-content {
  position: relative;
- margin-left: 90px;
+ margin-left: 38px;
  font-size: .8rem;
 }
 
