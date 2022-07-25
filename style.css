@@ -3,8 +3,16 @@
   src: url('font/Gilroy-Semibold.otf');
 }
 @font-face {
+  font-family:Gilroy-Medium;
+  src: url('font/Gilroy-Medium.otf');
+}
+@font-face {
   font-family:Gilroy-Light;
   src: url('font/Gilroy-Light.otf');
+}
+
+*{
+  font-family:'Gilroy-Medium';
 }
 
 .tab-title{
